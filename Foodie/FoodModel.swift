@@ -27,6 +27,8 @@ class Foods : Identifiable {
                                   Foods(name: "Tea", describe: "Refreshing tea", image: "cup.and.heat.waves", price: 14),
                                   Foods(name: "Candy", describe: "Tasty candies", image: "seal.fill", price: 15),
                                   Foods(name: "HotChocolate", describe: "Immersive chocolate", image: "sun.max.trianglebadge.exclamationmark", price: 16),
-                                  Foods(name: "IceTea", describe: "Freezes you", image: "sun.snow", price: 20)
-    ]
+                                  Foods(name: "IceTea", describe: "Freezes you", image: "sun.snow", price: 20),
+                                  Foods(name: "IceCoffee", describe: "Freezes you", image: "sun.snow", price: 20)]
+                                  
+    
 }
